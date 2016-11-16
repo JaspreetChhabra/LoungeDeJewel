@@ -1,0 +1,51 @@
+/* 
+    Document   : contact
+    Created on : 11 Nov, 2014, 12:54:50 PM
+    Author     : Anant Lalchandani
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.map {
+        min-width: 300px;
+        min-height: 300px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .header {
+        background-color: #F5F5F5;
+        color: #36A0FF;
+        height: 70px;
+        font-size: 27px;
+        padding: 10px;
+    }
+    .companyinfo h2 {
+  color: #B4B1AB;
+  font-family: abel;
+  font-size: 27px;
+  text-transform: uppercase;
+}
+.Flexible-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.Flexible-container iframe,
+.Flexible-container object,
+.Flexible-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+

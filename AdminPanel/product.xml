@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<procduct_info>
+    <p_id>101</p_id>
+    <p_name>Kundan Earrings</p_name>
+    <p_id>102</p_id>
+    <p_name>Earrings</p_name>
+    <p_id>103</p_id>
+    <p_name>Necklace</p_name>
+    
+    <total_bill>1024</total_bill>
+</procduct_info>
+
+

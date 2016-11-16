@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<order_status>
+
+	<status>Dispatching Soon</status>
+	<status>Dispatched</status>
+	<status>In-Transit</status>
+	<status>Out For Delivery</status>
+	<status>Delivered</status>
+
+
+</order_status>
